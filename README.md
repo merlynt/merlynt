@@ -2,9 +2,11 @@
 
 ### 😺 I'm Merlyn Nicole Rajo Reyes, a Software Development Engineering student
 
-- 👩‍💻 Passionate about backend development and solving logical problems
-- 💡 Currently building APIs and learning clean architecture with Laravel
-- 🌐 I enjoy working with MySQL, authentication systems, and RESTful design
+## 🌱 Currently Learning
+- 👩‍💻 Currently exploring backend development and practicing logical problem-solving  
+- 💡 Learning to build APIs and apply clean architecture principles using Laravel  
+- 🌐 Gaining experience with MySQL, Laravel routes and controllers, and building RESTful APIs
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -19,23 +21,27 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merlynt&theme=tokyonight&layout=compact)
 
 ---
+## 🛠️ Technologies & Tools
 
-## 🌱 Currently Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" />
+</p>
 
-- Backend with Laravel
-- Android development with Kotlin via [Dicoding](https://www.dicoding.com/)
-- Clean code principles and secure authentication (Sanctum & Passport)
 
----
 
 ## 📬 Contact Me
 
-[![Gmail Badge](https://img.shields.io/badge/-merlynrajo.dev@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white)](mailto:merlynrajo.dev@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white)](https://www.instagram.com/asthi_21_/)
+[![Gmail Badge](https://img.shields.io/badge/-merlynrajo@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white)](mailto:merlynrajo.dev@gmail.com)
 
 ---
-
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Merlyn</h6>
 
 
