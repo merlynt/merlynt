@@ -1,9 +1,7 @@
 <h1 align="center">Hello! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 ### 😺 I'm Merlyn Rajo, a Software Development Engineering student
-<p align="center">
-  <img src="https://i.pinimg.com/736x/81/06/e5/8106e545d8e3736a2f75c19f1038d121.jpg" width="900" height="200" style="border-radius: 10px;" />
-</p>
+
 
 ## 🌱 Currently Learning
 - 👩‍💻 Currently exploring backend development and practicing logical problem-solving  
