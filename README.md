@@ -2,7 +2,7 @@
 
 ### 😺 I'm Merlyn Rajo, a Software Development Engineering student
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4b/f8/e5/4bf8e5320b56f866e441bb40857bfed1.jpg" alt="Coding at night" width="700" height="500" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/736x/89/0e/17/890e17a6723ce1bd6447ff2cd07b7c01.jpg" width="700" height="200" style="border-radius: 10px;" />
 </p>
 
 ## 🌱 Currently Learning
